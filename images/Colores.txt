@@ -1,0 +1,11 @@
+#F08216 (naranja)
+#363636 (gris)
+#dd0314 (rojo)
+#808080 (gris medio)
+#fcf2ea (rosa)
+#f5f2f8 (encabezado)
+#f2f3f2 ( fondo)
+#666666 ( pie)
+#515051 ( fondos svg's)
+
+1.5
